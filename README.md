@@ -1,2 +1,2 @@
 # physics_projects
-All my projects
+All my Physics Projects
